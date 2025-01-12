@@ -7,3 +7,4 @@ export default function Button( {children:text, show, setShow} ) {
          <button onClick={handleClick}>{text}</button> 
     )
 }
+

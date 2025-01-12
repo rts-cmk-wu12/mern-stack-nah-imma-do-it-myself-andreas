@@ -38,3 +38,4 @@ I denne opgave skal I udvikle en webapplikation, der fungerer som en simpel blog
 
 ## Aflevering
 - Upload jeres projekt til et GitHub repository. Husk pull request til main.
+
